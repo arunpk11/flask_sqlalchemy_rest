@@ -5,6 +5,9 @@
 ## Quick Start Using Pipenv
 
 ``` bash
+# Install pipenv
+pip3 install pipenv
+
 # Activate venv
 $ pipenv shell
 
